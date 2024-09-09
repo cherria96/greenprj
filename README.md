@@ -1,2 +1,4 @@
-# greenprj
-green project code 
+# 그린벤처 프로그램 사업화 중소기업기술혁신사업 R&D
+
+## 1차년도
+
